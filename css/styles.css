@@ -1,0 +1,21 @@
+.introduction{
+  font-style:oblique;
+  font-size:35;
+  background-color:#E8E4E3;
+}
+.address{
+  font-style:italic;
+  color:#5C5B5B;
+}
+.skills{
+  font-style:italic;
+}
+.Education{
+  font-style:oblique;
+  font-family:sans-serif;
+}
+.contact{
+  font-color:#E82511;
+  background-color:#E8E4E3;
+  font-family:cursive;
+}
