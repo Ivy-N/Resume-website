@@ -10,6 +10,9 @@
 .column{
   width:350px;
   float:right;
+  border:1px solid black;
+  margin:5px;
+  padding:2px;
 }
 .Education{
   font-style:oblique;
@@ -19,4 +22,6 @@
   font-color:#E82511;
   background-color:#E8E4E3;
   font-family:cursive;
+  border: 2px solid black;
+  padding:2px
 }
