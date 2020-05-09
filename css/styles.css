@@ -7,8 +7,9 @@
   font-style:italic;
   color:#5C5B5B;
 }
-.skills{
-  font-style:italic;
+.column{
+  width:350px;
+  float:right;
 }
 .Education{
   font-style:oblique;
